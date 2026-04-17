@@ -17,6 +17,10 @@ const Skills = () => {
     {
       title: "Tools & Platforms",
       tags: ["Git / GitHub", "Vercel", "Figma", "Python", "TensorFlow", "Streamlit", "Canva"]
+    },
+    {
+      title: "Design & UI",
+      tags: ["Figma", "Canva", "UI/UX Design", "Wireframing"]
     }
   ];
 

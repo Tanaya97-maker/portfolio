@@ -7,10 +7,8 @@ const Experience = () => {
       company: "Self-Directed",
       role: "AI Automation Engineer",
       points: [
-        "I've dedicated the last few months to mastering AI automation. I built a custom system that uses AI to 'read' attendance photos and automatically populate Excel spreadsheets, which completely eliminates manual data entry.",
-        "To help businesses handle scale, I designed an AI-powered voice assistant using Make.com that qualifies leads on the fly—it even handles retries and knows when to transfer to a human specialist.",
-        "I simplified my own communication by building an n8n workflow that uses AI to classify every incoming email and drafts appropriate replies for me, so I never miss an important inquiry.",
-        "I also created an AI Inventory Assistant that lets you talk to your database in plain English—no more complex queries, just natural conversation."
+        "I've dedicated the last few months to mastering AI automation. I have integrated AI workflow into my website that uses AI to 'read' attendance photos and automatically populate Excel spreadsheets, which completely eliminates manual data entry.",
+        "I am currently designing an AI-powered voice assistant using Make.com that qualifies leads on the fly—it even handles retries and sends messages to leads.",
       ]
     },
     {
@@ -28,9 +26,9 @@ const Experience = () => {
       company: "IoDroplet",
       role: "Web Development Intern",
       points: [
-        "This was my first deep dive into production-grade React. I built over 15 reusable components that are still being used today, focusing on performance and modularity.",
-        "I specialized in data visualization, creating interactive dashboards with Chart.js that made complex datasets easy for users to understand through sorting and filtering.",
-        "I learned the final steps of the development lifecycle—deploying apps on Vercel and optimizing them to hit near-perfect Lighthouse performance scores."
+        "This was my first deep dive into production-grade React. I built over 15 reusable components, focusing on performance and modularity.",
+        "Designed and developed a responsive sales-focused website template and Implemented reusable UI components and modern layout techniques",
+        "Optimized for responsiveness and user experience across devices",
       ]
     }
   ];
